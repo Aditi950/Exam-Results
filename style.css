@@ -1,0 +1,30 @@
+div{
+    background-color: yellow;
+    height: 600px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    border-radius: 30px;
+    position: relative;
+}
+input{
+    margin: auto;
+    display: block;
+}
+body{
+    background-color: black;
+}
+button{
+
+    border-radius: 20px;
+    color: yellow;
+    background-color: black;
+    font-size: larger;
+}
+image{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+}
